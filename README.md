@@ -1,2 +1,2 @@
-# musicrecoms
-Get the best music recommendations from the best spotify user.  
+# Electric Guitar vs Acoustic Guitar
+Figure out what songs are best played on what type of guitar.  
