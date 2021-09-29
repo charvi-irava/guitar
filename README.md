@@ -1,14 +1,13 @@
  ## Electric Guitar vs Acoustic Guitar
 Figure out what songs are best played on each type of guitar.
-### Markdown
+### Electoc Guitar
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Electric Guitar
-## Acoustic Guitar
+
 ### Header 3
 
 - Bulleted
@@ -24,7 +23,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Acoustic Guitar
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aila-jahromi/Mooni-Business/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
