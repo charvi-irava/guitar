@@ -1,6 +1,6 @@
  ## Electric Guitar vs Acoustic Guitar
-Figure out what songs are best played on each type of guitar.
-### Electoc Guitar
+Both types of guitars are beatiful instruments qith pros and cons. It is important to keep in mind a list of these pros in cons in order to determine what type of sound you are trying to generate for a certain song. The biggest difference between the acoustic and electric guitar is how they are desgined and the sounds they generate. Acoustic guitars produce noise due to the vibration of the strings strumming, and electric guitars produce noise with electricity.
+### Electric Guitar
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
