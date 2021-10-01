@@ -14,7 +14,9 @@ When wanting to produce a more sublte and pleasant sound, you will most likely w
 
 
 ```markdown
-Use the link below to get a better understanding of how each type of guitar sounds by watching 7 famous riffs being played on both the electric and acoustic guitar! 
+Use the link below to get a better understanding of how each 
+type of guitar sounds by watching 7 famous riffs being 
+played on both the electric and acoustic guitar! 
 
 
 
