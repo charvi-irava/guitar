@@ -13,6 +13,7 @@ When wanting to produce a more sublte and pleasant sound, you will most likely w
 
 ### USE LINK BELOW
 Watch this video to get a better understanding of how each type of guitar sounds by watching 7 famous riffs being played on both the electric and acoustic guitar!
+
 https://youtu.be/MWA_ddM7xyA
 
 
