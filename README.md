@@ -16,18 +16,9 @@ When wanting to produce a more sublte and pleasant sound, you will most likely w
 
 
 ```markdown
-Syntax highlighted code block
+Use the link below to get a better understanding of how each type of guitar sounds by watching 7 famous riffs being played on both the electric and acoustic guitar! 
 
 
-### OVERALL
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](https://youtu.be/MWA_ddM7xyA) 
 ```
