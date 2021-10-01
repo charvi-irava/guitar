@@ -11,15 +11,8 @@ When wanting to produce a powerful noise, you will most likely want to use an el
 
 When wanting to produce a more sublte and pleasant sound, you will most likely want to use an acoustic guitar. An acoustic guitar is open to different tunings which is allows players to try out different tunings to find the best sound that matches a song. Players are also able to use the sliding technique when playing on an acoustic guitar. You can also decide if you want to use an acoustic guitar based on if the song has fingerpicking or not. Fingerpicking typically sounds better on acoustic guitars as it has the right tone. 
 
-
-
-```markdown
-Use the link below to get a better understanding of how each 
-type of guitar sounds by watching 7 famous riffs being 
-played on both the electric and acoustic guitar! 
-
-
-
+### USE LINK BELOW
+Watch this video to get a better understanding of how each type of guitar sounds by watching 7 famous riffs being played on both the electric and acoustic guitar!
 https://youtu.be/MWA_ddM7xyA
-```
+
 
